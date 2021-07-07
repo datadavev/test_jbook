@@ -2,4 +2,8 @@ title: "Test Book"
 execute:
   execute_notebooks: auto
   run_in_temp: false
-
+html:
+  use_repository_button: true
+repository:
+  url: https://github.com/datadavev/test_jbook
+  branch: main

@@ -2,6 +2,7 @@
 
 Example of simple jupyter book.
 
+See: https://github.com/datadavev/test_jbook
 
 ## Setup:
 
