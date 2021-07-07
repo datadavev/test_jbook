@@ -1,2 +1,4 @@
 format: jb-book
-root: test1
+root: README
+chapters:
+  - file: test1
