@@ -12,5 +12,7 @@ pip install pyld
 git clone https://github.com/datadavev/test_jbook.git
 cd test_jbook
 jupyter-book build .
-open _build/html/index.html
+mv _build/html docs
+touch docs/.nojekyll
+open docs/index.html
 ```
