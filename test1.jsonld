@@ -1,0 +1,12 @@
+{
+	"@context": [
+		"https://schema.org/",
+		{
+			"iss": "https://isamples.org/data/"
+		}
+	],
+	"@id": "iss:test1.jsonld",
+	"@type": "Dataset",
+	"name": "Test dataset with some pieces",
+	"identifier": "test1.jsonld"
+}

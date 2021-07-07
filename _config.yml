@@ -1,0 +1,5 @@
+title: "Test Book"
+execute:
+  execute_notebooks: auto
+  run_in_temp: false
+
