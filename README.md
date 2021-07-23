@@ -1,3 +1,7 @@
+---
+title: Test JBook
+
+---
 # Test JBook
 
 Example of simple jupyter book.
